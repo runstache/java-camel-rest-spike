@@ -1,2 +1,2 @@
-# java-camel-rest-spike
+# Camel Rest Spike
 Spike for Camel Rest Components
